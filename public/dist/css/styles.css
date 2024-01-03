@@ -1,0 +1,28 @@
+.right{
+	float: right!important;
+}
+.left{
+	float: left!important;
+	margin-top: 8px;
+	margin-right: 15px;
+	margin-bottom: 8px;
+}
+.btnc{
+	color: #fff!important;
+	margin: 15px;
+}
+.ad-btn{
+	background-color: #00a65a;
+}
+.blue{
+	background-color: #0073b7;;
+	color: #fff;
+}
+.red{
+	color: #ff0000;
+}
+.dropdown-toggle::after {
+    display: none!important;
+    content: ""!important;
+
+}

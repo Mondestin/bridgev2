@@ -1,0 +1,3 @@
+mail=  no-reply@consulat-benin-pnr.org
+pass=XMyjF8MJnacl
+-------------------------------
